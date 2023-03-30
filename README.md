@@ -1,4 +1,4 @@
-# swift_localization
+# swift-localization-gen
 
 This is a primitive implementation of a locale string generator that parses an XCode project for NSLocalizedString instances, then extracts the keys and creating a dictionary based on the extracted key and uses its translation as a value
 
